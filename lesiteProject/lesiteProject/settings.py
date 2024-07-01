@@ -68,8 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'lesiteProject.wsgi.app'
-
+WSGI_APPLICATION = 'lesiteProject.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
